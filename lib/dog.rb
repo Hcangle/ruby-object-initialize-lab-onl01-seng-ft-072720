@@ -9,8 +9,9 @@ end
 def name
   @name
 end
-def initialize(name)
-  @name = name
+  
+  def initialize(breed)
+  @ = name
 end
 def name=(name)
   @name = name
