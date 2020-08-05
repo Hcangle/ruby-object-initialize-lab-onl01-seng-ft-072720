@@ -21,9 +21,7 @@ end
   def breed
     @breed
   end
-else
-  puts "Mutt"
-end
+ 
 
 end
 
