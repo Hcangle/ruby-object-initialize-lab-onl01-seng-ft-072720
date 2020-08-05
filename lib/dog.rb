@@ -3,6 +3,6 @@ def initialize(name, breed)
   @name = name
   @breed = breed
 end
- if 
+ if breed
 end
 
