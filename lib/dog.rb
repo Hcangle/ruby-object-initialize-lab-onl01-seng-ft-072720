@@ -4,5 +4,8 @@ def initialize(name, breed)
   @breed = breed
 end
  if breed
+   puts "@breed"
+ else
+   puts "Mutt"
 end
 
