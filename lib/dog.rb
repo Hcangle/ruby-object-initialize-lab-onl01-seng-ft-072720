@@ -11,14 +11,18 @@ def name
 end
   
   def initialize(breed)
-  @ = name
-end
-def name=(name)
-  @name = name
-end
-
-def name
-  @name
+    @breed = breed
+  end
+ 
+  def breed=(breed)
+    @breed = breed
+  end
+ 
+  def breed
+    @breed
+  end
+else
+  puts "Mutt"
 end
 
 end
