@@ -1,4 +1,5 @@
 class Dog
-def breed
+def breed=(breed)
+  @breed 
 end
 
